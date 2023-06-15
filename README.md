@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you'll find information about me, my skills, 
 
 ## Who I am
 
-My name is Lígia Falcão, and I'm a software developer with experience in fullstack using on frontend Angular and Zend, backend Laravel. I'm passionate about solving complex problems and creating innovative solutions.
+My name is Lígia Falcão, I live in Brazil and I'm a software developer with experience in fullstack using on frontend Angular and Zend, backend Laravel working on Shooting House. I'm passionate about solving complex problems and creating innovative solutions. I have a degree in Mechanical Engineering from the UTFPR and now in the last year graduation of TSI from UTFPR. 
 
 ## Skills
 
@@ -12,3 +12,11 @@ My name is Lígia Falcão, and I'm a software developer with experience in fulls
 - Frameworks and Technologies: Angular, Laravel, Zend, React Native, Docker, HTML5, CSS3
 - Libaries: Tailwind, Bootstrap, Numpy 
 - OS: Windows, Linux, MacOs
+
+## Languages
+
+- Portuguese
+- English
+- Spanish
+- German
+- French
