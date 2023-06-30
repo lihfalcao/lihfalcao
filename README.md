@@ -20,3 +20,8 @@ My name is Lígia Falcão, I live in Brazil and I'm a software developer with ex
 - Spanish
 - German
 - French
+
+## Collabs 
+
+- LugRo: https://github.com/gstaciaki/lugro
+- Natal dos Sonhos: https://github.com/utfpr-gp/natal-dos-sonhos-app
