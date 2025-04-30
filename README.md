@@ -8,7 +8,7 @@ My name is Lígia Falcão, I live in Brazil and I'm a software developer with ex
 
 ## Skills
 
-- Programming languages: Typescript, Javascript, PHP, SQL, Java, Python, C++
+- Programming languages: Typescript, Javascript, PHP, Ruby, SQL, Java, Python, C++
 - Frameworks and Technologies: Angular, Laravel, Zend, React Native, Docker, HTML5, CSS3
 - Libraries: Tailwind, Bootstrap, Angular Materials
 - OS: Windows, Linux, MacOs
